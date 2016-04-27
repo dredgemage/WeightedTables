@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Weighted Tables</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="main_panel_fragment">Main Panel</string>
+    <string name="side_panel_fragment">Side Panel</string>
 </resources>
